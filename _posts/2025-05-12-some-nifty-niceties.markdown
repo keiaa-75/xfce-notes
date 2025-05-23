@@ -19,10 +19,6 @@ All searches are done relative to the directory chose in the location selector (
 
 ## XFCE4 Docklike Plugin
 
-![XFCE4 Docklike Plugin Switch](https://docs.xfce.org/_media/panel-plugins/xfce4-docklike-plugin/xfce4-docklike-plugin-switch.png?cache=&w=375&h=205&tok=83a2d0){: width="375" height="205" .right }
-
-<sup>A screenshot of XFCE4 Docklike Plugin by the [XFCE Development Team](https://xfce.org). Image licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</sup>
-
 As you may have noticed, launchers and window buttons are separate in XFCE, unlike Cinnamon, GNOME, and KDE. This can easily be circumvented with `xfce4-docklike-plugin`. It supports pinning on dock, thumbnail previews, and forcing icon sizes.
 
 Follow below instructions to install it on your system.
@@ -59,17 +55,13 @@ sudo meson install -C build
 
 The XFCE Panel is configurable to a great extent and it is nice to play around it.
 
-![XFCE4 Panel Profiles Window](https://docs.xfce.org/_media/apps/xfce4-panel-profiles-window.png){: width="360" height="434" .right }
-
-<sup>A screenshot of XFCE4 Panel Profiles by the [XFCE Development Team](https://xfce.org). Image licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</sup>
-
 `xfce4-panel-profiles` is a nifty tool to backup, restore, and set panel profiles in XFCE. This is accessible through the topmost view of XFCE's panel preferences when installed. It allows you to save current panel configuration to local storage and export it. You may also import others' panel profiles or go with a preset installed with the package.
 
 ## XFCE4 Terminal
 
 XFCE Terminal is a lightweight and easy to use terminal emulator application.
 
-![XFCE4 Terminal](https://docs.xfce.org/_media/apps/xfce4-terminal/terminal-multiple-tabs.png){: width="646" height="430" .right }
+![XFCE4 Terminal](https://docs.xfce.org/_media/apps/xfce4-terminal/terminal-multiple-tabs.png){: width="646" height="430" .normal }
 
 <sup>A screenshot of XFCE4 Terminal by the [XFCE Development Team](https://xfce.org). Image licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</sup>
 
