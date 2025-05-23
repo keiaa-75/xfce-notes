@@ -23,7 +23,7 @@ If you have a preferred display name and/or link you'd like included, feel free 
 
 ### ❌ Please Avoid:
 - Adding non-Xfce content (e.g., unrelated DEs or apps).
-- Adding opinions or speculation without context or disclaimers.
+- Adding speculation without context or disclaimers.
 - Uploading large binaries or screenshots (unless requested).
 
 ## 🧰 How to Contribute
@@ -38,12 +38,23 @@ If you have a preferred display name and/or link you'd like included, feel free 
 
 - Use clear, concise Markdown.
 - Refer to [Chirpy's](https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts) documentations.
-- Prefer lists and headers over large text blocks.
+- Prefer lists and headers over large text blocks in technical writing, unless otherwise necessary.
 - Wrap code snippets in triple backticks:
 
   ```
   xfconf-query -c xfwm4 -p /general/theme -s "Adwaita"
   ```
+
+## 📑 Attribution Tips
+
+- **Always cite the source** if you include or paraphrase content from, but not limited to:
+  - Wiki pages (e.g., Arch Wiki, Ubuntu Wiki)
+  - Blog posts or forums
+  - Official Xfce documentation
+- You can include the citation as:
+  - An in-text citation
+  - A footnote-style link
+  - A link (i.e. to the project)
 
 ## 💬 Questions?
 
