@@ -1,3 +1,12 @@
+---
+title: "All About XFCE"
+description: Get to know all about the lightweight desktop environment for Unix-like operating systems.
+author: keiaa
+date: 2025-05-12 22:59:00 +0800
+categories: [Notes, XFCE]
+tags: [xfce, linux, unix, foss, open-source]
+---
+
 Linux provides you greater control over your system. But how about your desktop?
 
 There's XFCE, a FOSS desktop environment for Unix-like operating systems. It's fast, deliberately conservative, and shamelessly utilitarian at best. The seemingly old relic stands out from the field of Linux desktops by successfully managing resource usage with a traditional, user-centric interface, which makes it an excellent choice for your daily computing needs.
