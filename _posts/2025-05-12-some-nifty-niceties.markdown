@@ -4,7 +4,7 @@ description: Get to know some of the suggested apps to add alongside your Linux 
 author: keiaa
 date: 2025-05-12 22:26:00 +0800
 categories: [Notes, XFCE]
-tags: [xfce, linux, unix, foss, open-source]
+tags: [xfce, linux, unix, foss, open-source, software]
 ---
 
 ## Baobab
