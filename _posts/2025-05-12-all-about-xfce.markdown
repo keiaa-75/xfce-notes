@@ -9,6 +9,8 @@ tags: [xfce, linux, unix, foss, open-source]
 
 ![XFCE 4.20](https://cdn.xfce.org/about/screenshots/4.20-1.png){: width="800" height="450" .normal }
 
+<sup>A screenshot the XFCE Desktop by the [XFCE Development Team](https://xfce.org). Image licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</sup>
+
 Linux provides you greater control over your system. But how about your desktop?
 
 There's XFCE, a FOSS desktop environment for Unix-like operating systems. It's fast, deliberately conservative, and shamelessly utilitarian at best. The seemingly old relic stands out from the field of Linux desktops by successfully managing resource usage with a traditional, user-centric interface, which makes it an excellent choice for your daily computing needs.
