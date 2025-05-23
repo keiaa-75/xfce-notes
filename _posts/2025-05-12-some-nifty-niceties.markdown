@@ -1,6 +1,6 @@
 ---
 title: "Some Nifty Niceties"
-description: Get to know some of the suggested apps to add alongside your Linux desktop.
+description: Your XFCE desktop is great, but let's be real. It could always use a few more fantastic apps.
 author: keiaa
 date: 2025-05-12 22:26:00 +0800
 categories: [Notes, XFCE]

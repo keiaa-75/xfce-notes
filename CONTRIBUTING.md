@@ -38,7 +38,6 @@ If you have a preferred display name and/or link you'd like included, feel free 
 
 - Use clear, concise Markdown.
 - Refer to [Chirpy's](https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts) documentations.
-- Prefer lists and headers over large text blocks in technical writing, unless otherwise necessary.
 - Wrap code snippets in triple backticks:
 
   ```

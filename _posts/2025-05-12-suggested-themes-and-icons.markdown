@@ -1,6 +1,6 @@
 ---
 title: "With Some Splash of Paint"
-description: Get to know some of the suggested themes and icons for your XFCE desktop.
+description: Your desktop called, it wants a new look. Are you up for it?
 author: keiaa
 date: 2025-05-12 22:50:00 +0800
 categories: [Notes, XFCE]
