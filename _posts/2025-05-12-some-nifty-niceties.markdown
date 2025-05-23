@@ -17,7 +17,7 @@ If it's not your type, I suggest taking a look at [`ncdu`](https://dev.yorhel.nl
 
 If you're looking for something, chances are it's best done with [Catfish](https://docs.xfce.org/apps/catfish/start). It is a simple search utility powered by Python and GTK3.
 
-All searches are done relative to the directory chose in the location selector (1). In the sidebar (4), you may filter and further narrow down your search. Under the settings view (3), you may choose which directories to exclude from your search.
+All searches are done relative to the directory chose in the location selector. In the sidebar, you may filter and further narrow down your search. Under the settings view, you may choose which directories to exclude from your search.
 
 ## Celluloid
 
