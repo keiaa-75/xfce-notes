@@ -101,3 +101,7 @@ The XFCE Panel is configurable to a great extent and it is nice to play around i
 XFCE Terminal is a lightweight and easy to use terminal emulator application.
 
 It has multi-tab and drop-down support. It is based on the [Vte terminal widget library](https://gitlab.gnome.org/GNOME/vte/), which offers a well-developed base and excellent Unicode support. If you are experiencing problems with the terminal rendering speed, you may disable anti-aliasing for the terminal font.
+
+---
+
+[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-12-some-nifty-niceties.markdown)

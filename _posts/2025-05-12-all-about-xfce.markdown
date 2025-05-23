@@ -72,3 +72,7 @@ The XFCE development team currently prefers `wlroots` over `libmutter`. They pre
 - They may require a bit more effort and modification to work properly.
 
 Learn more in their [Wayland Roadmap](https://wiki.xfce.org/releng/wayland_roadmap).
+
+---
+
+[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-12-all-about-xfce.markdown)
