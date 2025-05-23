@@ -126,6 +126,6 @@ tags: [xfce, linux, unix, foss, open-source, resources]
 - You're here because you found a cursor theme you loved... on Windows. And you thought, 'Why can't I have that?' Don't worry, we've all made questionable life choices. This tool is just one of them.
 - You could just use a native Linux cursor theme. But where's the fun in that? We're here for the chaos, the cross-platform shenanigans, and maybe a little bit of trauma.
 - My sole purpose in life is to bridge the unholy gap between your aesthetic desires and your operating system's default settings. It's not a glamorous job, but someone's gotta do it.
-You've found it. The script that answers the question no one asked: 'Can I have my gacha game waifus pointing at my files?' Yes. Yes you can. You magnificent individual.
+- You've found it. The script that answers the question no one asked: 'Can I have my gacha game waifus pointing at my files?' Yes. Yes you can. You magnificent individual.
 - You could be productive. You could be working. Instead, you're here, making your cursor a tiny, pixelated Miku. And honestly? I respect that.
 - We're translating the very essence of Hatsune Miku's digital sparkle into something that can highlight your `sudo rm -rf` commands. The duality of man.
