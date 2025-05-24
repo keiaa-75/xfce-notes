@@ -71,9 +71,10 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 
 **Rating:** ⭐ ⭐ ⭐ ⭐ 
 
-**Project link:**
+**Project links:**
 
 - <https://github.com/ubuntu/yaru>
+- <https://github.com/shimmerproject/elementary-xfce>
 
 **Yaru Notes:**
 
@@ -88,22 +89,22 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 - Excellent application and mimetype coverage.
 
 
-## Mehedirm's Lavanda Tokyonight
+## Mehedirm's Lavanda Theme + Zafiro Icons
 
-![Lavanda TKN](https://iili.io/3ZpZzKl.webp){: width="800" height="450" .normal }
+![Lavanda Zafiro](https://iili.io/3D2I6mP.webp){: width="800" height="450" .normal }
 
 **Rating:** ⭐ ⭐ ⭐ ⭐ 
 
-**Project link:**
+**Project links:**
 
 - <https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade/home/.themes/Lavanda-Dark-Compact-Tokyonight>
+- <https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade/home/.local/share/icons/Zafiro>
 
 **Notes:**
 
 - Excellent contrast, color choices, and consistency.
 - Strictly does not have `libadwaita` support.
 - Made with customization and Xfce in mind.
-- Complements Mint-Y Purple well, as shown in the image.
 
 ---
 
