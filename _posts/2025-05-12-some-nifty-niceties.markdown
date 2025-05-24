@@ -1,9 +1,9 @@
 ---
 title: "Some Nifty Niceties"
-description: Your XFCE desktop is great, but let's be real. It could always use a few more fantastic apps.
+description: Your Xfce desktop is great, but let's be real. It could always use a few more fantastic apps.
 author: keiaa
 date: 2025-05-12 22:26:00 +0800
-categories: [Notes, XFCE]
+categories: [Notes, Xfce]
 tags: [xfce, linux, unix, foss, open-source, software]
 ---
 
@@ -33,7 +33,7 @@ If you are not comfortable with its graphical interface, I suggest looking at [E
 
 ## GNOME Calculator
 
-As you may have noticed, XFCE does not come with a graphical calculator, by default. [GNOME Calculator](https://apps.gnome.org/Calculator/) does come in handy to fill that gap. It supports advanced, financial, and programming modes. 
+As you may have noticed, Xfce does not come with a graphical calculator, by default. [GNOME Calculator](https://apps.gnome.org/Calculator/) does come in handy to fill that gap. It supports advanced, financial, and programming modes. 
 
 If you are uncomfortable with GNOME and `libadwaita`, I suggest `mate-calc` and `qalculate` as alternatives. You may also use the `xcalc` utility with the `x11-apps` or use widely available command-line utilities.
 
@@ -56,9 +56,9 @@ Just to be on the safe side, you'd probably like to take a snapshot of your syst
 
 You can use it to take incremental snapshots of your file system at regular intervals, which can then be restored later to undo all changes in the system.
 
-## XFCE4 Docklike Plugin
+## Xfce4 Docklike Plugin
 
-As you may have noticed, launchers and window buttons are separate in XFCE, unlike Cinnamon, GNOME, and KDE. This can easily be circumvented with [`xfce4-docklike-plugin`](https://docs.xfce.org/panel-plugins/xfce4-docklike-plugin/start). It supports pinning on dock, thumbnail previews, and forcing icon sizes.
+As you may have noticed, launchers and window buttons are separate in Xfce, unlike Cinnamon, GNOME, and KDE. This can easily be circumvented with [`xfce4-docklike-plugin`](https://docs.xfce.org/panel-plugins/xfce4-docklike-plugin/start). It supports pinning on dock, thumbnail previews, and forcing icon sizes.
 
 Follow below instructions to install it on your system.
 
@@ -90,15 +90,15 @@ meson compile -C build
 sudo meson install -C build
 ```
 
-## XFCE4 Panel Profiles
+## Xfce4 Panel Profiles
 
-The XFCE Panel is configurable to a great extent and it is nice to play around it.
+The Xfce Panel is configurable to a great extent and it is nice to play around it.
 
-[`xfce4-panel-profiles`](https://docs.xfce.org/apps/xfce4-panel-profiles/start) is a nifty tool to backup, restore, and set panel profiles in XFCE. This is accessible through the topmost view of XFCE's panel preferences when installed. It allows you to save current panel configuration to local storage and export it. You may also import others' panel profiles or go with a preset installed with the package.
+[`xfce4-panel-profiles`](https://docs.xfce.org/apps/xfce4-panel-profiles/start) is a nifty tool to backup, restore, and set panel profiles in Xfce. This is accessible through the topmost view of Xfce's panel preferences when installed. It allows you to save current panel configuration to local storage and export it. You may also import others' panel profiles or go with a preset installed with the package.
 
-## XFCE4 Terminal
+## Xfce4 Terminal
 
-XFCE Terminal is a lightweight and easy to use terminal emulator application.
+Xfce Terminal is a lightweight and easy to use terminal emulator application.
 
 It has multi-tab and drop-down support. It is based on the [Vte terminal widget library](https://gitlab.gnome.org/GNOME/vte/), which offers a well-developed base and excellent Unicode support. If you are experiencing problems with the terminal rendering speed, you may disable anti-aliasing for the terminal font.
 

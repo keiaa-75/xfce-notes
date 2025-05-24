@@ -1,4 +1,4 @@
-# Contributing to XFCE Notes
+# Contributing to Xfce Notes
 
 Thank you for considering a contribution!
 
@@ -36,6 +36,7 @@ If you have a preferred display name and/or link you'd like included, feel free 
 
 ## 📄 Style Tips
 
+- Refer to it as "Xfce".
 - Use clear, concise Markdown.
 - Refer to [Chirpy's](https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts) documentations.
 - Wrap code snippets in triple backticks:

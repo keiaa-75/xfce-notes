@@ -1,4 +1,4 @@
-# XFCE Notes
+# Xfce Notes
 
 This repository contains organized notes, tips, and documentation about using and customizing the **Xfce desktop environment**. It serves as a personal knowledge base and a resource for others using Xfce on Linux systems.
 
@@ -7,7 +7,7 @@ This repository contains organized notes, tips, and documentation about using an
 - Configuration tips
 - Theming and appearance
 - Performance tweaks
-- XFCE-specific tools
+- Xfce-specific tools
 
 ## 📦 Purpose
 

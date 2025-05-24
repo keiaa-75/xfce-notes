@@ -3,7 +3,7 @@ title: "With Some Splash of Paint"
 description: Your desktop called, it wants a new look. Are you up for it?
 author: keiaa
 date: 2025-05-12 22:50:00 +0800
-categories: [Notes, XFCE]
+categories: [Notes, Xfce]
 tags: [xfce, linux, unix, foss, open-source, themes, customization]
 ---
 
@@ -15,8 +15,8 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 
 **Project links:**
 
-- [https://github.com/linuxmint/mint-themes](https://github.com/linuxmint/mint-themes)
-- [https://github.com/linuxmint/mint-y-icons](https://github.com/linuxmint/mint-y-icons)
+- <https://github.com/linuxmint/mint-themes>
+- <https://github.com/linuxmint/mint-y-icons>
 
 **Notes:**
 
@@ -25,7 +25,7 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 - Excellent contrast, consistency, and branding.
 - Merges multiple icon themes based on usage context.
 - Good application coverage without feeling too custom.
-- Made with XFCE, Mate, and Cinnamon in mind.
+- Made with Xfce, Mate, and Cinnamon in mind.
 
 ## Vince's Graphite and Tela Circle Icons
 
@@ -35,8 +35,8 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 
 **Project links:**
 
-- [https://github.com/vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme)
-- [https://github.com/vinceliuice/Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme)
+- <https://github.com/vinceliuice/Graphite-gtk-theme>
+- <https://github.com/vinceliuice/Tela-circle-icon-theme>
 
 **Notes:**
 
@@ -53,8 +53,8 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 
 **Project links:**
 
-- [https://github.com/vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme)
-- [https://github.com/vinceliuice/Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme)
+- <https://github.com/vinceliuice/Qogir-theme>
+- <https://github.com/vinceliuice/Qogir-icon-theme>
 
 **Notes:**
 
@@ -73,7 +73,7 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 
 **Project link:**
 
-- [https://github.com/ubuntu/yaru](https://github.com/ubuntu/yaru)
+- <https://github.com/ubuntu/yaru>
 
 **Yaru Notes:**
 
@@ -96,11 +96,15 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 
 **Project link:**
 
-- [https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade/home/.themes/Lavanda-Dark-Compact-Tokyonight](https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade/home/.themes/Lavanda-Dark-Compact-Tokyonight)
+- <https://github.com/mehedirm6244/Miserable_Xfce/tree/Serenade/home/.themes/Lavanda-Dark-Compact-Tokyonight>
 
 **Notes:**
 
 - Excellent contrast, color choices, and consistency.
 - Strictly does not have `libadwaita` support.
-- Made with customization and XFCE in mind.
+- Made with customization and Xfce in mind.
 - Complements Mint-Y Purple well, as shown in the image.
+
+---
+
+[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-12-suggested-themes-and-icons.markdown)
