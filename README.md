@@ -21,7 +21,7 @@ This repo is meant to:
 Feel free to browse or clone this repository:
 
 ```bash
-git clone https://github.com/nozomi-75/xfce-notes.git
+git clone https://github.com/keiaa-75/xfce-notes.git
 ```
 
 ## 🤝 Contributions

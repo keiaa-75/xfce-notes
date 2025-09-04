@@ -54,7 +54,7 @@ tags: [xfce, linux, unix, foss, open-source, resources]
 
 **Rating:** 🤪 🤪 🤪
 
-**Project link:** <https://github.com/nozomi-75/ColorCursor/>
+**Project link:** <https://github.com/keiaa-75/ColorCursor/>
 
 **Not so important notes:**
 
@@ -140,4 +140,4 @@ tags: [xfce, linux, unix, foss, open-source, resources]
 
 ---
 
-[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-12-the-other-stuff.markdown)
+[View page source](https://github.com/keiaa-75/xfce-notes/blob/main/_posts/2025-05-12-the-other-stuff.markdown)

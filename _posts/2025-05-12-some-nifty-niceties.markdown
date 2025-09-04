@@ -104,4 +104,4 @@ It has multi-tab and drop-down support. It is based on the [Vte terminal widget 
 
 ---
 
-[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-12-some-nifty-niceties.markdown)
+[View page source](https://github.com/keiaa-75/xfce-notes/blob/main/_posts/2025-05-12-some-nifty-niceties.markdown)

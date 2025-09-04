@@ -108,4 +108,4 @@ tags: [xfce, linux, unix, foss, open-source, themes, customization]
 
 ---
 
-[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-12-suggested-themes-and-icons.markdown)
+[View page source](https://github.com/keiaa-75/xfce-notes/blob/main/_posts/2025-05-12-suggested-themes-and-icons.markdown)

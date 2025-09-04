@@ -75,4 +75,4 @@ Learn more in their [Wayland Roadmap](https://wiki.xfce.org/releng/wayland_roadm
 
 ---
 
-[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-12-all-about-xfce.markdown)
+[View page source](https://github.com/keiaa-75/xfce-notes/blob/main/_posts/2025-05-12-all-about-xfce.markdown)

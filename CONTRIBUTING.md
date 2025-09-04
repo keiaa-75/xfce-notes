@@ -6,9 +6,9 @@ This repository contains user-written notes about the Xfce desktop environment. 
 
 ## 🔗 Submodule Integration & Attribution
 
-Please note that this repository is designed to be used as a **Git submodule** within my [Jekyll website](https://github.com/nozomi-75/nozomi-75.github.io). As such, its content may be rendered or embedded directly into the site.
+Please note that this repository is designed to be used as a **Git submodule** within my [Jekyll website](https://github.com/keiaa-75/keiaa-75.github.io). As such, its content may be rendered or embedded directly into the site.
 
-To ensure proper credit, when your contribution is merged into this project, your name (or preferred handle) will be added to the [`authors.yml`](https://github.com/nozomi-75/nozomi-75.github.io/blob/main/_data/authors.yml) file in the main site repository. This way, your contributions will be visibly attributed wherever applicable on the site.
+To ensure proper credit, when your contribution is merged into this project, your name (or preferred handle) will be added to the [`authors.yml`](https://github.com/keiaa-75/keiaa-75.github.io/blob/main/_data/authors.yml) file in the main site repository. This way, your contributions will be visibly attributed wherever applicable on the site.
 
 If you have a preferred display name and/or link you'd like included, feel free to mention it in your pull request or open an issue.
 

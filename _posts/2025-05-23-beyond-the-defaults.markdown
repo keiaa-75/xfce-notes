@@ -207,4 +207,4 @@ In this section, I would like to feature and appreciate [Mehedirm's Serenade](ht
 
 ---
 
-[View page source](https://github.com/nozomi-75/xfce-notes/blob/main/_posts/2025-05-23-beyond-the-defaults.markdown)
+[View page source](https://github.com/keiaa-75/xfce-notes/blob/main/_posts/2025-05-23-beyond-the-defaults.markdown)
